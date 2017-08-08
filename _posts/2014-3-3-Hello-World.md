@@ -14,7 +14,7 @@ racing.
 Have a rowing story? Once we get officially launched, we will welcome your
 contributions.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![sunrise eight]({{ site.baseurl }}/images/eight-and-sunrise.jpg)
 
 <!--
 The easiest way to make your first post is to edit this one. Go into /_posts/

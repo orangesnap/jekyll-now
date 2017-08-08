@@ -1,10 +1,22 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to our rowing jam!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Grab some coffee and a donut, and stay awhile. We plan to chat about lots of
+trivia and handy ideas about rowing, boats, swimming holes, random other
+adventures, and good bakeries.
+
+There will be sketches, poems, cartoons, and guest writers. You might even find
+some nuggets of wisdom about rigging, trailering, drillwork, teamwork, and
+racing.
+
+Have a rowing story? Once we get officially launched, we will welcome your
+contributions.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+<!--
+The easiest way to make your first post is to edit this one. Go into /_posts/
+and update the Hello World markdown file. For more instructions head over to the
+[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub. -->

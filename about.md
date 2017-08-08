@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
-### More Information
+### Us
 
-A place to include any other types of information that you'd like to include about yourself.
+![larissa]({{ site.baseurl }}/images/larissa-dauntless.png)
 
-### Contact me
+![vicky]({{ site.baseurl }}/images/vicky-1x-HOCR.jpg)
 
-[email@domain.com](mailto:email@domain.com)
+
+
+
+### Contact
+
+[orangesnap on GitHub](https://github.com/orangesnap)

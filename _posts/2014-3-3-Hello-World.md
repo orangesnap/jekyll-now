@@ -27,9 +27,12 @@ We decided to host this blog on GitHub Pages because we read a bunch of articles
 about different options, and this seemed simple, lightweight and cool.
 
 So we'll share stuff we learn as we go along about authoring in
-[markdown](https://daringfireball.net/projects/markdown/), using [GitHub
-Pages](https://pages.github.com/) and [Jekyll](http://jekyllrb.com/), and
-experimenting with themes, Liquid, and CSS.
+[markdown](https://daringfireball.net/projects/markdown/){: target="_"
+class="_"}, using [GitHub Pages](https://pages.github.com/){: target="_"
+class="_"} and [Jekyll](http://jekyllrb.com/),
+[Liquid](https://jekyllrb.com/docs/templates/){: target="_" class="_"}
+templates, and [HTML and CSS](https://www.w3schools.com/){: target="_"
+class="_"}.
 
 The first of these will be:
 

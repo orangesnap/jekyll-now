@@ -37,9 +37,9 @@ The first of these will be:
 
 Here are some good articles to get started with:
 
-- [Build a Blog With Jekyll and GitHub Pages(https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)] by [Barry Clark](https://www.smashingmagazine.com/author/barryclark/)
+- [Build a Blog With Jekyll and GitHub Pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/){: target="_" class="_"} by Barry Clark
 
-- [Building a static website with Jekyll and GitHub](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages)
+- [Building a static website with Jekyll and GitHub](https://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages){: target="_" class="_"} by Amanda Visconti
 
 
 <!--
